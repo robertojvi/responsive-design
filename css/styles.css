@@ -139,6 +139,16 @@ footer {
     margin: 10px;
 }
 
+.mas{
+    background-color: #00669F;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 50%;
+    position: fixed;
+    right: 10px;
+    top: 50%;
+}
+
 .espacio {
     height: 200px;
 }
